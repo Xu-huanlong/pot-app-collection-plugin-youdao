@@ -1,5 +1,5 @@
 {
-  "id": "[plugin].com.pot-app.youdao_wordlist",
+  "id": "plugin.com.pot-app.youdao_wordlist",
   "plugin_type": "collection",
   "icon": "youdao.svg",
   "display": "有道单词本",
