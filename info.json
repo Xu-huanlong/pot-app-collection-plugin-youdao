@@ -3,6 +3,6 @@
   "plugin_type": "collection",
   "icon": "youdao.svg",
   "display": "有道单词本",
-  "homepage": "https://github.com/pot-app/pot-app-collection-plugin-youdao",
+  "homepage": "https://github.com/Xu-huanlong/pot-app-collection-plugin-youdao",
   "needs": [{ "key": "cookie", "display": "Cookie" }]
 }
